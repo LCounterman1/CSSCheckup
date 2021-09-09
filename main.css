@@ -1,0 +1,52 @@
+/* rule set #1: All the li items within the css-classes class will have a blue font. */
+.css-classes li{
+    color: rgb(36, 178, 221);
+}
+
+/* 2 */
+#number-one{
+    color: lightcoral;
+}
+
+#margin-experiment1{
+    height: 20px;
+    background: turquoise;
+    border: 5px solid blueviolet;
+    margin: 5px 10px 20px 0px;
+    padding: 10px 10px 10px 10px;
+}
+/* 3 */
+
+li{
+    font-style: italic;
+}
+
+/* 4 */
+.background1{
+    background-image: url(../CSSCheckup/assets/Donuts.jpg);
+}
+
+/* 5 */
+.example1{
+    height: 30px;
+    width: 30%;
+    background-color: rgb(148, 200, 235);
+}
+
+/* 6 */
+.border-style h3{
+    margin: 5px;
+}
+
+.border-style h3:nth-child(1){
+    border-style: solid;
+    border-width: 3px;
+}
+
+/* 7 */
+.example2{
+    height: 30px;
+    width: 30%;
+    background-color: pink;
+}
+
